@@ -1,1 +1,2 @@
 this is a test for learning git, especially the feature: merge two branches.
+I add a sentence in master branch.
