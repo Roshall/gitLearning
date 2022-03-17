@@ -1,1 +1,2 @@
-this is a test for learning git, especially the feature: merge two branches.
+this is a not just a  test for learning git, especially the feature: merge two branches.
+It 's modified by new branch.
